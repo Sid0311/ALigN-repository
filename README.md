@@ -1,2 +1,2 @@
-# ALigN-
+# ALigN
 approximated neural networks
