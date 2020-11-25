@@ -1,0 +1,4 @@
+model_checkpoint_path: "/media/D/SID/Resnet18/resnet-18-tensorflow-master/model.ckpt-15000"
+all_model_checkpoint_paths: "/media/D/SID/Resnet18/resnet-18-tensorflow-master/model.ckpt-5000"
+all_model_checkpoint_paths: "/media/D/SID/Resnet18/resnet-18-tensorflow-master/model.ckpt-10000"
+all_model_checkpoint_paths: "/media/D/SID/Resnet18/resnet-18-tensorflow-master/model.ckpt-15000"
