@@ -9,4 +9,4 @@ trained Neural Networks, IEEE Access, vol. 8, pp. 118899 - 118911, 2020.
 Salim Ullah, Siddharth Gupta, Kapil Ahuja, Aruna Tiwari, and Akash Kumar.
 L2L: A Highly Accurate Log 2 Lead Quantization of Pre-trained Neural Networks,
 Design, Automation & Test in Europe Conference & Exhibition (DATE), IEEE,
-Grenoble (France), pp. 979 { 982, 2020.
+Grenoble (France), pp. 979 - 982, 2020.
