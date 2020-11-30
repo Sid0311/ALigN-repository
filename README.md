@@ -1,6 +1,6 @@
 # ALigN: A Highly Accurate Adaptive Layerwise Log 2 Lead Quantization of Pre-trained Neural Networks 
 
-If you are using this repository then please cite the following papers
+If you are using this repository then please cite the following papers:
 
 Siddharth Gupta, Salim Ullah, Kapil Ahuja, Aruna Tiwari, and Akash Kumar.
 ALigN: A Highly Accurate Adaptive Layerwise Log 2 Lead Quantization of Pre-
